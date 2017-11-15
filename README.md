@@ -10,3 +10,4 @@ Sample website with plenty of files for demos
 Random text inserted
 
 ## How to contribute
+Please fork and issue pull request for review.
