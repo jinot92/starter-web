@@ -14,3 +14,6 @@ Please fork and issue pull request for review.
 
 ## Rebase error
 adding text for rebase : master
+
+## Comparison example
+This section is to work on the Comparison part of the course
