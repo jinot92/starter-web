@@ -23,3 +23,12 @@ Adding another text for comparison example
 
 ## Comparison example : 3rd para
 This would be used as a point of comparison
+
+## Comparison example : 4th para
+This line will only be added but not committed
+
+## Comparison example : 5th para
+There has to be a point to all this adding of data.
+
+## Comparison example : 6th para
+I might have missed something
