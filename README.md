@@ -20,3 +20,6 @@ This section is to work on the Comparison part of the course
 
 ## Comparison example : 2nd addition
 Adding another text for comparison example
+
+## Comparison example : 3rd para
+This would be used as a point of comparison
