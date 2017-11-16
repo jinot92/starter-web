@@ -11,3 +11,6 @@ Random text inserted
 
 ## How to contribute
 Please fork and issue pull request for review.
+
+## Rebase error
+adding text for rebase : master
