@@ -32,3 +32,6 @@ There has to be a point to all this adding of data.
 
 ## Comparison example : 6th para
 I might have missed something
+
+## Copyright reserved
+Jino Thomas 2017. All rights reserved.
